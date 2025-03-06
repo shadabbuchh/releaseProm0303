@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "67c53b724c6b90796973db5b_76520864-8b5d-4cc6-9968-84f70254e649",
+  "id": "OAuth20_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "OAuth20",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
